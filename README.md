@@ -17,7 +17,8 @@
 
 ### How to use
 1. Download .ino file from [Latest Release](https://github.com/hoony6134/cydial/releases/tag/1.0) and Connect your Arduino.
-2. Make Arduino Circuit
+2. Make Arduino Circuit (Follow Image Below)
+![Cydial ps](https://user-images.githubusercontent.com/65375075/215458242-54d5c1a6-8a85-426b-8d43-ed28f94c2d6b.png)
 3. Download .apk file from [Latest Release](https://github.com/hoony6134/cydial/releases/tag/1.0) from your Android Smartphone/Tablet
 4. **Go to settings from your phone and enable Location & Bluetooth access of Cydial Connect.**
 5. Connect Cydial Connect app and Arduino.
