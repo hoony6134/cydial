@@ -27,5 +27,5 @@
 7. That's it!
 
 ### Troubleshooting
-Q. When I open Cydial Connect app, I can't connect with my Cydial device.
+Q. When I open Cydial Connect app, I can't connect with my Cydial device.  
 A. Please double-check if you granted 'location' and 'bluetooth access' permission at the settings app, _manually_.
