@@ -1,5 +1,6 @@
 # Cydial
 ## Cydial Connect via Bluetooth App
+[![playstore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=appinventor.ai_hoony6134.Cydial_Beta)
 
 ### Prerequisites
 * Arduino UNO
@@ -24,3 +25,7 @@
 5. Connect Cydial Connect app and Arduino.
 6. Click Sync.
 7. That's it!
+
+### Troubleshooting
+Q. When I open Cydial Connect app, I can't connect with my Cydial device.
+A. Please double-check if you granted 'location' and 'bluetooth access' permission at the settings app, _manually_.
