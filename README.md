@@ -1,7 +1,7 @@
 # Cydial
 ## Cydial Connect via Bluetooth App
 All you need is just your arduino and Android Smartphone/Tablet.  
-No coding experience required.  
+No coding experience required.    
 [![playstore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=appinventor.ai_hoony6134.Cydial_Beta)
 
 ### Prerequisites
